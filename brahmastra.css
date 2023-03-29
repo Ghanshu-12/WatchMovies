@@ -1,0 +1,11 @@
+body{
+    display: block;
+    margin: auto;
+    background-image: linear-gradient(yellow,white,blue,green,red,cyan);
+}
+.video{
+    display: block;
+    margin: auto;
+    border: solid black 2%;
+    border-radius: 10%;
+}
